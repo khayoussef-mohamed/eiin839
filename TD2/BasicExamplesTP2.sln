@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebServerUrlParser", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPListener", "HTTPListener\HTTPListener.csproj", "{EE038146-F665-42A9-87C2-24E7473DE838}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDynamic", "WebDynamic\WebDynamic.csproj", "{05B7ED57-3094-4035-BA51-D784B39A67B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mymethod", "Mymethod\Mymethod.csproj", "{967E368A-5621-419E-9C07-08327EFC2F05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{EE038146-F665-42A9-87C2-24E7473DE838}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE038146-F665-42A9-87C2-24E7473DE838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE038146-F665-42A9-87C2-24E7473DE838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05B7ED57-3094-4035-BA51-D784B39A67B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05B7ED57-3094-4035-BA51-D784B39A67B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05B7ED57-3094-4035-BA51-D784B39A67B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05B7ED57-3094-4035-BA51-D784B39A67B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967E368A-5621-419E-9C07-08327EFC2F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967E368A-5621-419E-9C07-08327EFC2F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967E368A-5621-419E-9C07-08327EFC2F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967E368A-5621-419E-9C07-08327EFC2F05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
